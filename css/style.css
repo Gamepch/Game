@@ -40,4 +40,5 @@ div {
     margin-bottom: 25px;
     background-color: rgb(248, 203, 203);
     box-shadow: 10px 10px 4px rgb(168, 157, 157);
+    border-radius: 10px
 }
