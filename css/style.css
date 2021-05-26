@@ -11,7 +11,7 @@ body {
 }
 
 
-a, h2 {
+a, h2, h1 {
     text-decoration:none;
     color: rgb(238, 240, 96);
     text-shadow: 2px 0px 0px black, -2px 0px 0px black, 0px -2px 0px black, 0px 2px 0px black
@@ -24,8 +24,6 @@ p {
 }
 
 h1 {
-    color: white;
-    text-shadow: 0px 2px 0px black, 0px -2px 0px black, -2px 0px 0px black, 2px 0px 0px black;
     font-size: 50px;
 }
 
@@ -46,4 +44,6 @@ div img {
 #first {
     text-align: center;
     font-size: 100px;
+    color: white;
+     text-shadow: 2px 0px 0px black, -2px 0px 0px black, 0px -2px 0px black, 0px 2px 0px black
 }
