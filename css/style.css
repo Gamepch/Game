@@ -2,7 +2,7 @@
 
 body {
     background-color: rgb(247, 215, 220);
-    font-family: 'Black Han Sans', sans-serif;
+    font-family: 'Black Han Sans', sans-serif; 
 }
 
 h2 {
@@ -16,7 +16,7 @@ a {
 
 p {
     color: white;
-    text-shadow: 0px 3px 0px black;
+    text-shadow: 0px 1px 0px black, 0px -1px 0px black, -1px 0px 0px black, 1px 0px 0px;
     font-size: 20px;
 }
 
@@ -24,5 +24,6 @@ div {
     
     border: white solid 5px;
     padding: 10px;
-    margin: 50px;
+    margin: 10px;
+    margin-bottom: 25px;
 }
