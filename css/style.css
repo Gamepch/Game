@@ -48,3 +48,14 @@ div img {
     color: white;
      text-shadow: 2px 0px 0px black, -2px 0px 0px black, 0px -2px 0px black, 0px 2px 0px black
 }
+
+ul li {
+    border: white solid 5px;
+    padding: 10px;
+    margin: 50px;
+    background-color: rgb(235, 235, 235);
+    box-shadow: 10px 10px 4px rgb(189, 189, 189);
+    border-radius: 20px;
+    list-style: none;
+    
+}
