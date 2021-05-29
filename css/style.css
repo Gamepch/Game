@@ -66,6 +66,7 @@ div img {
 .navbar__logo {
     font-size: 30px;
     color: rgb(255, 210, 194);
+    margin: 8px;
 }
 
 .navbar__menu {
