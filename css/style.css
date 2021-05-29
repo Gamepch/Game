@@ -61,11 +61,17 @@ div img {
     align-items: center;
     background-color: #636363;
     padding: 8px 12px;
+    position:fixed;
+    top:0;
+    left: 0;
+    right: 0;
+    width:99%;
+    height:50px;
 }
 
 .navbar__logo {
     font-size: 30px;
-    color: rgb(255, 210, 194)
+    color: rgb(255, 210, 194);
 }
 
 .navbar__menu {
