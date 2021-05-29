@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://wgsite.netlify.app/sitemap.xml
