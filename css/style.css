@@ -142,6 +142,7 @@ a {
 
     .navbar__tg {
         display: block;
+        margin: 8px;
     }
     
     .navbar__menu.active,
