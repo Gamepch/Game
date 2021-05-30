@@ -52,7 +52,9 @@ div img {
     text-align: center;
     font-size: 100px;
     color: white;
-     text-shadow: 2px 0px 0px black, -2px 0px 0px black, 0px -2px 0px black, 0px 2px 0px black
+     text-shadow: 2px 0px 0px black, -2px 0px 0px black, 0px -2px 0px black, 0px 2px 0px black;
+     position:relative;
+     top: 30px;
 }
 
 .navbar {
@@ -61,6 +63,9 @@ div img {
     align-items: center;
     background-color: #636363;
     padding: 8px 12px;
+    position: fixed;
+    top:0;
+    width: 100%;
 }
 
 .navbar__logo {
@@ -142,7 +147,7 @@ a {
 
     .navbar__tg {
         display: block;
-        top: 20px;
+        margin: 8px;
     }
     
     .navbar__menu.active,
