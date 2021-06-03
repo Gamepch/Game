@@ -26,10 +26,11 @@ footer {
     font-size: 100px;
 }
 
-h2, h1 {
+h3, h2 {
     text-decoration:none;
     color: rgb(246, 248, 139);
     text-shadow: 2px 0px 0px black, -2px 0px 0px black, 0px -2px 0px black, 0px 2px 0px black;
+    font-size: 30px;
 }
 
 p {
@@ -38,7 +39,7 @@ p {
     font-size: 20px;
 }
 
-h1 {
+h2 {
     font-size: 50px;
     color: rgb(255, 210, 194);
     margin-left: 20px;
@@ -68,8 +69,7 @@ div img {
     font-size: 100px;
     color: white;
      text-shadow: 2px 0px 0px black, -2px 0px 0px black, 0px -2px 0px black, 0px 2px 0px black;
-     position:relative;
-     top: 30px;
+
 }
 
 .navbar {
